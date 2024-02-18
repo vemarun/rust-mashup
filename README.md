@@ -9,6 +9,18 @@ npx tsc
 cargo run
 ```
 
+#### WebAssembly
+WebAssembly can be used along with Javascript in performance-critical applications to provide near-native speed in the browser.
+Webassmbly binary file (.wasm file) can be compiled from various languages like c++/rust. This allows us to write code in various languages other than Javascript.
+![image](https://github.com/vemarun/rust-mashup/assets/25810241/ad708461-6f5b-4a4e-ab3b-eb4b2e2b73f3)
+
+##### Resources
+- [WebAssembly: To the Browser and Beyond!](https://www.youtube.com/watch?v=Z6ZhIA8i_8g)
+- [WebAssembly Concepts](https://developer.mozilla.org/en-US/docs/WebAssembly/Concepts)
+- [State of WebAssembly 2023](https://www.cncf.io/wp-content/uploads/2023/09/The-State-of-WebAssembly-2023.pdf)
+
+
+
 Explore
 - [x] Run node from rust
 - [x] Explore wasm
