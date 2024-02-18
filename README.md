@@ -12,7 +12,9 @@ cargo run
 #### WebAssembly
 WebAssembly can be used along with Javascript in performance-critical applications to provide near-native speed in the browser.
 Webassmbly binary file (.wasm file) can be compiled from various languages like c++/rust. This allows us to write code in various languages other than Javascript.
-![image](https://github.com/vemarun/rust-mashup/assets/25810241/ad708461-6f5b-4a4e-ab3b-eb4b2e2b73f3)
+
+![wasm](https://github.com/vemarun/rust-mashup/assets/25810241/7b36b2b4-96fc-496c-a09e-5c89e418d7e0)
+
 
 ##### Resources
 - [WebAssembly: To the Browser and Beyond!](https://www.youtube.com/watch?v=Z6ZhIA8i_8g)
